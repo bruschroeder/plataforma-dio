@@ -12,6 +12,6 @@ Esse projeto foi realizado durante o bootcamp Orange Tech + com o intuito de cri
 
 💻 React  
 
-# Aviso
+# ⚠️ Aviso
 
 Certifique de instalar o typescript para evitar os erros apresentados no código.
