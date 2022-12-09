@@ -14,4 +14,4 @@ Esse projeto foi realizado durante o bootcamp Orange Tech + com o intuito de cri
 
 # Aviso ⚠️
 
-Certifique de instalar o typescript para evitar os erros apresentados no código.
+Certifique de instalar o typescript no projeto para evitar os possíveis erros apresentados no código.
