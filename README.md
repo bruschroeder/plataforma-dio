@@ -4,7 +4,10 @@ Esse projeto foi realizado durante o bootcamp Orange Tech + com o intuito de cri
 
 # Tecnologias utilizadas
 
-💻 HTML
-💻 CSS
-💻 JavaScript
-💻 React
+💻 HTML  
+
+💻 CSS  
+
+💻 JavaScript  
+
+💻 React  
